@@ -1,0 +1,4 @@
+MAX_CAPITAL = 1000
+TRADE_FRACTION = 0.1      # 10%
+TRADING_COST = 0.0005    # fixed threshold
+Z_THRESHOLD = 0.5
