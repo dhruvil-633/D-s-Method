@@ -20,7 +20,7 @@ This repository contains a **fully working, end-to-end implementation**:
 
 The final return prediction is:
 
-![D’s Method Equation](docs/CodeCogsEqn.svg)
+![D’s Method Equation](docs/CodeCogsEqn.png)
 
 **Interpretation:**
 
